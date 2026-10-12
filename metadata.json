@@ -1,0 +1,6 @@
+{
+  "name": "Grammar Safari: Zero & First Conditional Quest",
+  "description": "An interactive, gamified English grammar learning adventure for A2 EFL students with cartoon animal guides, video lessons, progressive challenges, and educational classroom scenarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
